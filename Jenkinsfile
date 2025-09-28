@@ -12,3 +12,4 @@ pipeline {
                 echo 'Hello World'
             }
         }
+    }
